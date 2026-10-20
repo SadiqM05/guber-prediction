@@ -25,6 +25,15 @@ purpose: train and compare models
 eval.ipynb: model evaluation
 purpose: accuracy, precision, F1, charts, etc.
 
+github workflow:
+commit: commit your changes to your own personal branch
+push: push your changes to github
+pull request: create a pull request so that we can see what you worked on
+merge: merge the change into main
+delete: delete your branch after working on feature(s)
+
+allows for accountability and easy contribution tracking!
+
 deadline 1: Oct 23
 deadline 2: Nov 13
 deadline 3: Dec 1
