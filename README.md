@@ -1,4 +1,5 @@
 # guber-prediction
+
 ML project for team gUBER
 
 when you clone repo run the following:
@@ -23,3 +24,7 @@ purpose: train and compare models
 
 eval.ipynb: model evaluation
 purpose: accuracy, precision, F1, charts, etc.
+
+deadline 1: Oct 23
+deadline 2: Nov 13
+deadline 3: Dec 1
