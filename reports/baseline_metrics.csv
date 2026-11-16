@@ -1,0 +1,7 @@
+Features,Model,Set,Threshold,Accuracy,Precision,Recall,F1,ROC-AUC,AP
+with VTAT,Logistic regression,validation,0.5,0.656,0.17,0.618,0.267,0.732,0.44
+with VTAT,Random forest,validation,0.5,0.93,0.947,0.331,0.491,0.751,0.477
+no VTAT,Logistic regression,validation,0.5,0.525,0.101,0.467,0.166,0.503,0.103
+no VTAT,Random forest,validation,0.5,0.891,0.074,0.006,0.012,0.507,0.102
+with VTAT,Random forest,test,0.65,0.934,1.0,0.349,0.517,0.757,0.489
+with VTAT,Logistic regression,test,0.5,0.657,0.174,0.632,0.272,0.741,0.434
