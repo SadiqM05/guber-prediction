@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+Majority class,0.899,0.0,0.0,0.0,0.5,0.101
+Logistic regression,0.899,0.0,0.0,0.0,0.51,0.106
+Logistic regression (balanced),0.53,0.105,0.48,0.172,0.51,0.106
+Random forest,0.899,0.0,0.0,0.0,0.508,0.103
+Random forest (balanced),0.703,0.109,0.27,0.156,0.512,0.105
+LR + VTAT,0.91,1.0,0.117,0.209,0.736,0.453
+LR + VTAT (balanced),0.66,0.172,0.617,0.269,0.735,0.437
